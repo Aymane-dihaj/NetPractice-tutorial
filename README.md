@@ -1,5 +1,7 @@
 # Netpractice
 
+source: https://www.notion.so/Netpractice-30240f0c91594cfd8e72ebb7305d8d49?pvs=4
+
 - **TCP/IP:**
     - TCP/IP network   model **is a set of protocols** that make connection possible between computers
     - TCP is highly reliable but slow
